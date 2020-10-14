@@ -6,3 +6,5 @@ gui: changing two files
 new change again
 first commit on feature branch
 second commit on feature branch
+fratre not fast forward 1
+feature not fast forward 2
