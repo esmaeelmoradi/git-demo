@@ -2,7 +2,4 @@
 this is a new line for teaching pull
 this is a line for testing gui
 gui: changing two files
-<<<<<<< HEAD
 new change again
-=======
->>>>>>> 95a329eaa8d473f119f9820d0d97982f1dcdcbd1
