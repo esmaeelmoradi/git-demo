@@ -9,6 +9,6 @@ second commit on feature branch
 fratre not fast forward 1
 feature not fast forward 2
 
-
 in the main branch: changes to create conflictsy
 
+in the feature branch: changes to ceate conflict
